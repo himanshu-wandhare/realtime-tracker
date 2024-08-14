@@ -24,8 +24,11 @@ This application works with both React.js and EJS.
 For React.js run this command from client directory:
 
 ```bash
-cd npm run dev
+cd client
+npm run dev
 ```
+
+Note: If you are using EJS then you don't required the client directory.
 
 ## Installation
 
